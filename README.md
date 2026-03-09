@@ -23,7 +23,7 @@
 - 🔗 **[agent-browser-mcp](https://github.com/winsonwq/agent-browser-mcp)** - 将浏览器自动化工具封装为 MCP 服务器，赋予 Agent 真实世界的“冲浪”能力。
 - 💬 **[react-agent-run-demo](https://github.com/winsonwq/react-agent-run-demo)** - 支持 ReAct Agent 模式的现代化 AI 聊天终端，探索复杂任务编排。
 - 🎙 **[qqh-tauri](https://github.com/winsonwq/qqh-tauri)** - 倾听者：集成 AI Agent 的智能语音转录、摘要与分析工具。
-- 📄 **[aura-rag](https://github.com/winsonwq/aura-rag) - 一个基于 LlamaIndex 构建的智能检索增强生成（RAG）系统，采用双路检索引擎架构，能够智能路由用户问题，在"局部细节搜索"和"全局摘要总结"之间自动切换，实现高效、精准的文档问答。
+- 📄 **[aura-rag](https://github.com/winsonwq/aura-rag)** - 一个基于 LlamaIndex 构建的智能检索增强生成（RAG）系统，采用双路检索引擎架构，能够智能路由用户问题，在"局部细节搜索"和"全局摘要总结"之间自动切换，实现高效、精准的文档问答。
 - 📰 **[wenyan-mcp](https://github.com/winsonwq/wenyan-mcp)** - 文言：让 AI 实现自动化排版，并一键发布 Markdown 文章至微信公众号。
 - 🛡 **[local-mcp-proxy](https://github.com/winsonwq/local-mcp-proxy)** - 本地 MCP 代理，打通 AI Agent 与本地开发环境的安全连接。
 - 📈 **[glm-realtime-demo](https://github.com/winsonwq/glm-realtime-demo)** - 基于 GLM 实战模型的实时对话与交互式 Agent 演示。
