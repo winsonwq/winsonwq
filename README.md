@@ -16,6 +16,12 @@
 
 ---
 
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=winsonwq&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=winsonwq&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=winsonwq&layout=compact&theme=github_dark)
+
 ## 当前项目
 
 ### 🤖 AI 与智能 Agent 系统
