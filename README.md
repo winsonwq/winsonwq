@@ -52,3 +52,31 @@
 - **Bilibili**: [space.bilibili.com/60232089](https://space.bilibili.com/60232089)
 - **Email**: [winsonwq@gmail.com](mailto:winsonwq@gmail.com)
 - **GitHub**: [github.com/winsonwq](https://github.com/winsonwq)
+
+<!-- AUTO-GENERATED -->
+
+## 📊 本周动态 (自动生成)
+
+| 活动类型 | 数量 |
+|---------|------|
+| 📝 提交 | 4 |
+| 🔀 PR | 0 |
+| ⭐ Star | 4 |
+| 🆕 新仓库 | 0 |
+
+
+## 🆕 最近更新项目
+
+- [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
+- [remotion_test](https://github.com/winsonwq/remotion_test) - ai remotion auto generation
+- [ai-courses](https://github.com/winsonwq/ai-courses) - ai-courses
+- [supchat](https://github.com/winsonwq/supchat) - SupChat - 一个智能 AI 助手微信小程序，支持 MCP（模型上下文协议）工具调用。具有照片选择、天气查询、流式响应和 Markdown 渲染功能，提供无缝的 AI 交互体验。
+- [a4-resume](https://github.com/winsonwq/a4-resume) - A premium, engineering-centric resume generation skill for AI Agents. It produces professional A4-sized resumes (HTML/CSS) with a focus on system architecture, engineering excellence, and clean design.
+- [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
+
+## ⭐ 本周 Starred
+
+本周暂无新的 Star
+<!-- /AUTO-GENERATED -->
+
+_Last updated: 2026-03-28 (auto-generated)_
