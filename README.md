@@ -26,21 +26,28 @@ wish peace and love
 
 ## 🤖 AI 与智能 Agent 系统
 
+- [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
+- [codex](https://github.com/winsonwq/codex) - Lightweight coding agent that runs in your terminal
+- [BrowserOS](https://github.com/winsonwq/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [service-to-cli](https://github.com/winsonwq/service-to-cli) - Transform existing systems into Agent-Native Skill + CLI interfaces. Based on GUI-to-CLI methodology.
+- [ranger-guard-cli](https://github.com/winsonwq/ranger-guard-cli) - Ranger Guard CLI - CLI tool and skills for Ranger Guard API
 - [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
 - [remotion_test](https://github.com/winsonwq/remotion_test) - ai remotion auto generation
 - [ai-courses](https://github.com/winsonwq/ai-courses) - ai-courses
 - [supchat](https://github.com/winsonwq/supchat) - SupChat - 一个智能 AI 助手微信小程序，支持 MCP（模型上下文协议）工具调用。具有照片选择、天气查询、流式响应和 Markdown 渲染功能，提供无缝的 AI 交互体验。
-- [a4-resume](https://github.com/winsonwq/a4-resume) - A premium, engineering-centric resume generation skill for AI Agents. It produces professional A4-sized resumes (HTML/CSS) with a focus on system architecture, engineering excellence, and clean design.
-- [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
-- [aigo](https://github.com/winsonwq/aigo) - 基于 OpenCode 的类 OpenWork 桌面应用（Tauri 2 + React），便于快速开工与协作。in progress
-- [qqh-tauri](https://github.com/winsonwq/qqh-tauri) - Echo | Intelligent Voice Transcription with AI Agent
-- [react-agent-run-demo](https://github.com/winsonwq/react-agent-run-demo) - 一个类似 Gemini Chat / ChatGPT 的 AI 聊天工具，核心特点是所有对话都支持 ReAct Agent 模式，可以调用 MCP 工具和自定义 Skills。参考了 Manus 的设计思路。
-- [agent-browser-mcp](https://github.com/winsonwq/agent-browser-mcp) - Wraps the agent-browser CLI tool as an MCP (Model Context Protocol) server, enabling AI assistants to automate browser operations.
 
 ---
 
 ## 📦 所有项目 (最近更新)
 
+- [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- [wechat-article-skill](https://github.com/winsonwq/wechat-article-skill) - 微信公众号文章发布 Skill，支持写作、配图、发布全流程
+- [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
+- [codex](https://github.com/winsonwq/codex) - Lightweight coding agent that runs in your terminal
+- [BrowserOS](https://github.com/winsonwq/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [service-to-cli](https://github.com/winsonwq/service-to-cli) - Transform existing systems into Agent-Native Skill + CLI interfaces. Based on GUI-to-CLI methodology.
+- [ranger-guard-cli](https://github.com/winsonwq/ranger-guard-cli) - Ranger Guard CLI - CLI tool and skills for Ranger Guard API
 - [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
 - [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
 - [remotion_test](https://github.com/winsonwq/remotion_test) - ai remotion auto generation
@@ -49,28 +56,21 @@ wish peace and love
 - [a4-resume](https://github.com/winsonwq/a4-resume) - A premium, engineering-centric resume generation skill for AI Agents. It produces professional A4-sized resumes (HTML/CSS) with a focus on system architecture, engineering excellence, and clean design.
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 - [aigo](https://github.com/winsonwq/aigo) - 基于 OpenCode 的类 OpenWork 桌面应用（Tauri 2 + React），便于快速开工与协作。in progress
-- [qqh-tauri](https://github.com/winsonwq/qqh-tauri) - Echo | Intelligent Voice Transcription with AI Agent
-- [react-agent-run-demo](https://github.com/winsonwq/react-agent-run-demo) - 一个类似 Gemini Chat / ChatGPT 的 AI 聊天工具，核心特点是所有对话都支持 ReAct Agent 模式，可以调用 MCP 工具和自定义 Skills。参考了 Manus 的设计思路。
-- [agent-browser-mcp](https://github.com/winsonwq/agent-browser-mcp) - Wraps the agent-browser CLI tool as an MCP (Model Context Protocol) server, enabling AI assistants to automate browser operations.
-- [robo-eyes](https://github.com/winsonwq/robo-eyes) - robo eyes on web
-- [glm-realtime-demo](https://github.com/winsonwq/glm-realtime-demo) - glm-realtime-demo
-- [jira-confluence-mcp](https://github.com/winsonwq/jira-confluence-mcp) - 暂无描述
-- [wenyan-mcp](https://github.com/winsonwq/wenyan-mcp) - 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号，支持图文消息
 
 ---
 
 ## ⭐ 最近 Starred
 
-- [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
-- [gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
-- [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-- [tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
-- [ai-courses](https://github.com/winsonwq/ai-courses) - ai-courses
-- [autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
-- [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [hiclaw](https://github.com/alibaba/hiclaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+- [wechat-article-skill](https://github.com/winsonwq/wechat-article-skill) - 微信公众号文章发布 Skill，支持写作、配图、发布全流程
+- [skills](https://github.com/MiniMax-AI/skills) - 暂无描述
+- [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
+- [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+- [boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+- [open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
+- [BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- [service-to-cli](https://github.com/winsonwq/service-to-cli) - Transform existing systems into Agent-Native Skill + CLI interfaces. Based on GUI-to-CLI methodology.
 
 ---
 
@@ -78,11 +78,11 @@ wish peace and love
 
 | 活动类型 | 数量 |
 |---------|------|
-| 📝 提交 | 7 |
-| 🔀 PR | 0 |
-| ⭐ Star | 4 |
+| 📝 提交 | 18 |
+| 🔀 PR | 1 |
+| ⭐ Star | 12 |
 | 🐛 Issue | 0 |
 
 ---
 
-_Last updated: 2026-03-28 (auto-generated by Mpclaw)_
+_Last updated: 2026-04-03 (auto-generated by Mpclaw)_
