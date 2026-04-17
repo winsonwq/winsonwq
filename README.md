@@ -26,6 +26,8 @@ wish peace and love
 
 ## 🤖 AI 与智能 Agent 系统
 
+- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
+- [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
 - [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 - [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
@@ -34,16 +36,17 @@ wish peace and love
 - [service-to-cli](https://github.com/winsonwq/service-to-cli) - Transform existing systems into Agent-Native Skill + CLI interfaces. Based on GUI-to-CLI methodology.
 - [ranger-guard-cli](https://github.com/winsonwq/ranger-guard-cli) - Ranger Guard CLI - CLI tool and skills for Ranger Guard API
 - [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
-- [remotion_test](https://github.com/winsonwq/remotion_test) - ai remotion auto generation
-- [ai-courses](https://github.com/winsonwq/ai-courses) - ai-courses
 
 ---
 
 ## 📦 所有项目 (最近更新)
 
+- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
+- [openclaw-skill-evolution](https://github.com/winsonwq/openclaw-skill-evolution) - Hermes-style skill self-evolution hook for OpenClaw
+- [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
+- [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
 - [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
-- [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
 - [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 - [wechat-article-skill](https://github.com/winsonwq/wechat-article-skill) - 微信公众号文章发布 Skill，支持写作、配图、发布全流程
 - [codex](https://github.com/winsonwq/codex) - Lightweight coding agent that runs in your terminal
@@ -53,24 +56,21 @@ wish peace and love
 - [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
 - [remotion_test](https://github.com/winsonwq/remotion_test) - ai remotion auto generation
 - [ai-courses](https://github.com/winsonwq/ai-courses) - ai-courses
-- [supchat](https://github.com/winsonwq/supchat) - SupChat - 一个智能 AI 助手微信小程序，支持 MCP（模型上下文协议）工具调用。具有照片选择、天气查询、流式响应和 Markdown 渲染功能，提供无缝的 AI 交互体验。
-- [a4-resume](https://github.com/winsonwq/a4-resume) - A premium, engineering-centric resume generation skill for AI Agents. It produces professional A4-sized resumes (HTML/CSS) with a focus on system architecture, engineering excellence, and clean design.
-- [aigo](https://github.com/winsonwq/aigo) - 基于 OpenCode 的类 OpenWork 桌面应用（Tauri 2 + React），便于快速开工与协作。in progress
 
 ---
 
 ## ⭐ 最近 Starred
 
-- [FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
-- [mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
-- [deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-- [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
-- [awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
-- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
-- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [wechat-article-skill](https://github.com/winsonwq/wechat-article-skill) - 微信公众号文章发布 Skill，支持写作、配图、发布全流程
-- [skills](https://github.com/MiniMax-AI/skills) - 暂无描述
+- [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 暂无描述
+- [openclaw-skill-evolution](https://github.com/winsonwq/openclaw-skill-evolution) - Hermes-style skill self-evolution hook for OpenClaw
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
+- [mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [LongMemEval](https://github.com/xiaowu0162/LongMemEval) - Benchmarking Chat Assistants on Long-Term Interactive Memory (ICLR 2025)
+- [OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
 ---
 
@@ -78,11 +78,11 @@ wish peace and love
 
 | 活动类型 | 数量 |
 |---------|------|
-| 📝 提交 | 0 |
+| 📝 提交 | 60 |
 | 🔀 PR | 0 |
-| ⭐ Star | 8 |
+| ⭐ Star | 12 |
 | 🐛 Issue | 0 |
 
 ---
 
-_Last updated: 2026-04-10 (auto-generated by Mpclaw)_
+_Last updated: 2026-04-17 (auto-generated by Mpclaw)_
