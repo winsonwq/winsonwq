@@ -26,25 +26,29 @@ wish peace and love
 
 ## 🤖 AI 与智能 Agent 系统
 
-- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
+- [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
+- [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
+- [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
+- [claude-code-otel-guide](https://github.com/winsonwq/claude-code-otel-guide) - Claude Code + OpenTelemetry + Jaeger tracing guide
 - [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
+- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
 - [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 - [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 - [codex](https://github.com/winsonwq/codex) - Lightweight coding agent that runs in your terminal
-- [BrowserOS](https://github.com/winsonwq/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [service-to-cli](https://github.com/winsonwq/service-to-cli) - Transform existing systems into Agent-Native Skill + CLI interfaces. Based on GUI-to-CLI methodology.
-- [ranger-guard-cli](https://github.com/winsonwq/ranger-guard-cli) - Ranger Guard CLI - CLI tool and skills for Ranger Guard API
-- [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
 
 ---
 
 ## 📦 所有项目 (最近更新)
 
-- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
-- [openclaw-skill-evolution](https://github.com/winsonwq/openclaw-skill-evolution) - Hermes-style skill self-evolution hook for OpenClaw
+- [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
+- [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
+- [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
+- [claude-code-otel-guide](https://github.com/winsonwq/claude-code-otel-guide) - Claude Code + OpenTelemetry + Jaeger tracing guide
 - [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
 - [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
+- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
+- [openclaw-skill-evolution](https://github.com/winsonwq/openclaw-skill-evolution) - Hermes-style skill self-evolution hook for OpenClaw
 - [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 - [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
@@ -52,25 +56,21 @@ wish peace and love
 - [codex](https://github.com/winsonwq/codex) - Lightweight coding agent that runs in your terminal
 - [BrowserOS](https://github.com/winsonwq/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [service-to-cli](https://github.com/winsonwq/service-to-cli) - Transform existing systems into Agent-Native Skill + CLI interfaces. Based on GUI-to-CLI methodology.
-- [ranger-guard-cli](https://github.com/winsonwq/ranger-guard-cli) - Ranger Guard CLI - CLI tool and skills for Ranger Guard API
-- [voxis](https://github.com/winsonwq/voxis) - Open source Typeless alternative — AI voice input with real-time polish. Speak naturally, get polished text anywhere.
-- [remotion_test](https://github.com/winsonwq/remotion_test) - ai remotion auto generation
-- [ai-courses](https://github.com/winsonwq/ai-courses) - ai-courses
 
 ---
 
 ## ⭐ 最近 Starred
 
+- [claude-code-otel-guide](https://github.com/winsonwq/claude-code-otel-guide) - Claude Code + OpenTelemetry + Jaeger tracing guide
+- [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
+- [claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
 - [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 暂无描述
 - [openclaw-skill-evolution](https://github.com/winsonwq/openclaw-skill-evolution) - Hermes-style skill self-evolution hook for OpenClaw
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
 - [mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [LongMemEval](https://github.com/xiaowu0162/LongMemEval) - Benchmarking Chat Assistants on Long-Term Interactive Memory (ICLR 2025)
-- [OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
-- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
 ---
 
@@ -78,11 +78,11 @@ wish peace and love
 
 | 活动类型 | 数量 |
 |---------|------|
-| 📝 提交 | 60 |
+| 📝 提交 | 90 |
 | 🔀 PR | 0 |
-| ⭐ Star | 12 |
+| ⭐ Star | 3 |
 | 🐛 Issue | 0 |
 
 ---
 
-_Last updated: 2026-04-17 (auto-generated by Mpclaw)_
+_Last updated: 2026-04-24 (auto-generated by Mpclaw)_
