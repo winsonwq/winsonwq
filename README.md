@@ -26,6 +26,7 @@ wish peace and love
 
 ## 🤖 AI 与智能 Agent 系统
 
+- [ai-dictation](https://github.com/winsonwq/ai-dictation) - 命令行 AI 听写工具，支持实时语音转文字 + LLM 润色
 - [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
 - [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
 - [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
@@ -35,17 +36,18 @@ wish peace and love
 - [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 - [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
-- [codex](https://github.com/winsonwq/codex) - Lightweight coding agent that runs in your terminal
 
 ---
 
 ## 📦 所有项目 (最近更新)
 
+- [ai-dictation](https://github.com/winsonwq/ai-dictation) - 命令行 AI 听写工具，支持实时语音转文字 + LLM 润色
+- [ink-playground](https://github.com/winsonwq/ink-playground) - Ink TUI framework demo - 覆盖所有核心 API
+- [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
 - [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
 - [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
 - [opencode-hook-inspector](https://github.com/winsonwq/opencode-hook-inspector) - Monitor and debug OpenCode hooks with an interactive CLI. Supports context injection for session compaction.
 - [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
-- [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
 - [claude-code-otel-guide](https://github.com/winsonwq/claude-code-otel-guide) - Claude Code + OpenTelemetry + Jaeger tracing guide
 - [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
 - [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
@@ -54,23 +56,21 @@ wish peace and love
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 - [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 - [wechat-article-skill](https://github.com/winsonwq/wechat-article-skill) - 微信公众号文章发布 Skill，支持写作、配图、发布全流程
-- [codex](https://github.com/winsonwq/codex) - Lightweight coding agent that runs in your terminal
-- [BrowserOS](https://github.com/winsonwq/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 
 ---
 
 ## ⭐ 最近 Starred
 
+- [Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [ink-playground](https://github.com/winsonwq/ink-playground) - Ink TUI framework demo - 覆盖所有核心 API
+- [autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node_modules | Built with React
+- [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+- [wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
 - [openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [ace](https://github.com/ace-agent/ace) - Evolve your language agent with Agentic Context Engineering (ACE) 
 - [opencode-hook-inspector](https://github.com/winsonwq/opencode-hook-inspector) - Monitor and debug OpenCode hooks with an interactive CLI. Supports context injection for session compaction.
 - [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
-- [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
-- [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
-- [claude-code-otel-guide](https://github.com/winsonwq/claude-code-otel-guide) - Claude Code + OpenTelemetry + Jaeger tracing guide
-- [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
-- [claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 ---
 
@@ -78,11 +78,11 @@ wish peace and love
 
 | 活动类型 | 数量 |
 |---------|------|
-| 📝 提交 | 35 |
+| 📝 提交 | 28 |
 | 🔀 PR | 0 |
 | ⭐ Star | 5 |
 | 🐛 Issue | 0 |
 
 ---
 
-_Last updated: 2026-05-01 (auto-generated by Mpclaw)_
+_Last updated: 2026-05-08 (auto-generated by Mpclaw)_
