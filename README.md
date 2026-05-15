@@ -26,7 +26,8 @@ wish peace and love
 
 ## 🤖 AI 与智能 Agent 系统
 
-- [ai-dictation](https://github.com/winsonwq/ai-dictation) - 命令行 AI 听写工具，支持实时语音转文字 + LLM 润色
+- [handy-cli](https://github.com/winsonwq/handy-cli) - AI transcription CLI tool - A standalone transcription engine extracted from Handy
+- [voxa](https://github.com/winsonwq/voxa) - 命令行 AI 听写工具 - 按空格开始/停止，支持流式转写
 - [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
 - [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
 - [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
@@ -35,15 +36,15 @@ wish peace and love
 - [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
 - [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
-- [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 
 ---
 
 ## 📦 所有项目 (最近更新)
 
-- [ai-dictation](https://github.com/winsonwq/ai-dictation) - 命令行 AI 听写工具，支持实时语音转文字 + LLM 润色
-- [ink-playground](https://github.com/winsonwq/ink-playground) - Ink TUI framework demo - 覆盖所有核心 API
+- [handy-cli](https://github.com/winsonwq/handy-cli) - AI transcription CLI tool - A standalone transcription engine extracted from Handy
+- [voxa](https://github.com/winsonwq/voxa) - 命令行 AI 听写工具 - 按空格开始/停止，支持流式转写
 - [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
+- [ink-playground](https://github.com/winsonwq/ink-playground) - Ink TUI framework demo - 覆盖所有核心 API
 - [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
 - [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
 - [opencode-hook-inspector](https://github.com/winsonwq/opencode-hook-inspector) - Monitor and debug OpenCode hooks with an interactive CLI. Supports context injection for session compaction.
@@ -55,22 +56,21 @@ wish peace and love
 - [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
 - [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 - [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
-- [wechat-article-skill](https://github.com/winsonwq/wechat-article-skill) - 微信公众号文章发布 Skill，支持写作、配图、发布全流程
 
 ---
 
 ## ⭐ 最近 Starred
 
+- [cardputer-claude-os](https://github.com/dakshaymehta/cardputer-claude-os) - DIY OS bundle for the M5Stack Cardputer: Claude Buddy (BLE), Push-to-Claude (voice + chat with memory via a Cloudflare Worker), and a flash-and-go installer skill for Claude Code. Forked from moremas/build-with-claude.
+- [handy-cli](https://github.com/winsonwq/handy-cli) - AI transcription CLI tool - A standalone transcription engine extracted from Handy
+- [crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+- [FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
+- [VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [ink-playground](https://github.com/winsonwq/ink-playground) - Ink TUI framework demo - 覆盖所有核心 API
 - [autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node_modules | Built with React
 - [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
-- [openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
-- [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [ace](https://github.com/ace-agent/ace) - Evolve your language agent with Agentic Context Engineering (ACE) 
-- [opencode-hook-inspector](https://github.com/winsonwq/opencode-hook-inspector) - Monitor and debug OpenCode hooks with an interactive CLI. Supports context injection for session compaction.
-- [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 ---
 
@@ -78,11 +78,11 @@ wish peace and love
 
 | 活动类型 | 数量 |
 |---------|------|
-| 📝 提交 | 28 |
+| 📝 提交 | 51 |
 | 🔀 PR | 0 |
 | ⭐ Star | 5 |
 | 🐛 Issue | 0 |
 
 ---
 
-_Last updated: 2026-05-08 (auto-generated by Mpclaw)_
+_Last updated: 2026-05-15 (auto-generated by Mpclaw)_
