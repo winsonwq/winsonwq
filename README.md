@@ -26,51 +26,51 @@ wish peace and love
 
 ## 🤖 AI 与智能 Agent 系统
 
+- [supchat](https://github.com/winsonwq/supchat) - SupChat - 一个智能 AI 助手微信小程序，支持 MCP（模型上下文协议）工具调用。具有照片选择、天气查询、流式响应和 Markdown 渲染功能，提供无缝的 AI 交互体验。
+- [agent-repl](https://github.com/winsonwq/agent-repl) - Persistent, secure-by-default Python and Excel REPL runtime for AI agents
+- [sample-lambda-microvm-claude-managed-agents](https://github.com/winsonwq/sample-lambda-microvm-claude-managed-agents) - 暂无描述
+- [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
+- [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
+- [hooklane](https://github.com/winsonwq/hooklane) - Composable hook pipelines for coding agents
 - [handy-cli](https://github.com/winsonwq/handy-cli) - AI transcription CLI tool - A standalone transcription engine extracted from Handy
 - [voxa](https://github.com/winsonwq/voxa) - 命令行 AI 听写工具 - 按空格开始/停止，支持流式转写
-- [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
 - [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
 - [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
-- [claude-code-otel-guide](https://github.com/winsonwq/claude-code-otel-guide) - Claude Code + OpenTelemetry + Jaeger tracing guide
-- [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
-- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
-- [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
-- [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
 
 ---
 
 ## 📦 所有项目 (最近更新)
 
+- [supchat](https://github.com/winsonwq/supchat) - SupChat - 一个智能 AI 助手微信小程序，支持 MCP（模型上下文协议）工具调用。具有照片选择、天气查询、流式响应和 Markdown 渲染功能，提供无缝的 AI 交互体验。
+- [agent-repl](https://github.com/winsonwq/agent-repl) - Persistent, secure-by-default Python and Excel REPL runtime for AI agents
+- [sample-lambda-microvm-claude-managed-agents](https://github.com/winsonwq/sample-lambda-microvm-claude-managed-agents) - 暂无描述
+- [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
+- [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
+- [wechat-article-skill](https://github.com/winsonwq/wechat-article-skill) - 微信公众号文章发布 Skill，支持写作、配图、发布全流程
+- [hooklane](https://github.com/winsonwq/hooklane) - Composable hook pipelines for coding agents
 - [winsonwq](https://github.com/winsonwq/winsonwq) - 阿秋的 github readme
 - [handy-cli](https://github.com/winsonwq/handy-cli) - AI transcription CLI tool - A standalone transcription engine extracted from Handy
 - [voxa](https://github.com/winsonwq/voxa) - 命令行 AI 听写工具 - 按空格开始/停止，支持流式转写
 - [ink-playground](https://github.com/winsonwq/ink-playground) - Ink TUI framework demo - 覆盖所有核心 API
-- [spec-forge](https://github.com/winsonwq/spec-forge) - SPEC产出工具，面向Coding Agent开发。产出结构化、可测试、可执行的规格文档，直接指导coding agent完成开发、测试和验收。
 - [claude-agent-hook-relay](https://github.com/winsonwq/claude-agent-hook-relay) - Collect and forward Claude Code Hook events to external systems
 - [opencode-hook-inspector](https://github.com/winsonwq/opencode-hook-inspector) - Monitor and debug OpenCode hooks with an interactive CLI. Supports context injection for session compaction.
 - [claude-code-hook-inspector](https://github.com/winsonwq/claude-code-hook-inspector) - Monitor and debug Claude Code hooks with an interactive TUI
 - [claude-code-otel-guide](https://github.com/winsonwq/claude-code-otel-guide) - Claude Code + OpenTelemetry + Jaeger tracing guide
-- [memex](https://github.com/winsonwq/memex) - Agent 记忆系统 — 原文存储 + 向量检索，LongMemEval R@5 91.8%
-- [claude-agent-sdk-demo](https://github.com/winsonwq/claude-agent-sdk-demo) - Claude Agent SDK demos - 基础对话/多轮/Hook/模型切换/高级控制
-- [openclaw-skill-evolution](https://github.com/winsonwq/openclaw-skill-evolution) - Hermes-style skill self-evolution hook for OpenClaw
-- [claude-code-articles](https://github.com/winsonwq/claude-code-articles) - Claude Code 源码解析系列文章 - 通过代码诠释 AI 驾驭工程的思想
-- [aura-rag](https://github.com/winsonwq/aura-rag) - aura rag services
-- [claude-code](https://github.com/winsonwq/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 
 ---
 
 ## ⭐ 最近 Starred
 
-- [harness-anything](https://github.com/yb2460/harness-anything) - Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX
-- [cli](https://github.com/wps365-open/cli) - 暂无描述
-- [wps-cli](https://github.com/jjchen17/wps-cli) - WPS Office CLI - COM automation for WPS Office (Word/Excel/PPT/PDF)
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [noVNC](https://github.com/novnc/noVNC) - VNC client web application
+- [agent-plugins](https://github.com/antonbabenko/agent-plugins) - A collection of agent plugins for improving productivity, automating workflows, and making AI coding agents work better together.
+- [macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+- [codex](https://github.com/tf4farmer/codex) - Lightweight coding agent that runs in your terminal
+- [agent-repl](https://github.com/winsonwq/agent-repl) - Persistent, secure-by-default Python and Excel REPL runtime for AI agents
+- [sample-lambda-microvm-claude-managed-agents](https://github.com/aws-samples/sample-lambda-microvm-claude-managed-agents) - 暂无描述
+- [openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
+- [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+- [agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
+- [buzz](https://github.com/block/buzz) - A hive mind communication platform
 
 ---
 
@@ -80,9 +80,9 @@ wish peace and love
 |---------|------|
 | 📝 提交 | 0 |
 | 🔀 PR | 0 |
-| ⭐ Star | 3 |
+| ⭐ Star | 0 |
 | 🐛 Issue | 0 |
 
 ---
 
-_Last updated: 2026-06-19 (auto-generated by Mpclaw)_
+_Last updated: 2026-08-28 (auto-generated by Mpclaw)_
